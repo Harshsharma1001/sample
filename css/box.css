@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.styles {
+  background: #D22779;
+  color: #3B0000;
+  padding: 20px;
+margin: 5%;
+}
+
+.parent {
+background-color: #240041;
+width: 100%;
+height: 200px;
+
+
+}
+.child {
+  background-color: #990000;
+  width: 10px;
+  height: 10px;
+margin: 10px;
+  display: inline-block;
+}

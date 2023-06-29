@@ -1,0 +1,23 @@
+.mystyle {
+  background-color: #D22779;
+  color: #FFE400;
+border: 5px dotted #3B0000;
+
+}
+#myid {
+  background-color: #FFE400;
+  color: #3B0000;
+}
+
+ p {
+   background-color: #3B0000;
+   color: #170055;
+ }
+ .mystyle1 {
+   background-color: #191825;
+   color: #FF6D28;
+ }
+.parastyle {
+  background-color: #FDCEDF;
+  color: #321E1E;
+}
